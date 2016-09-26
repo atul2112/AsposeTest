@@ -16,7 +16,7 @@
         </p>
 
         <p>        
-            Use this area to provide additional information asdfghj
+            Use this area to provide additional information
         </p>
     </article>
 
